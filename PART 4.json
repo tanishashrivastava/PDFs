@@ -1,0 +1,189 @@
+{
+    "rules": [
+        {
+            "article no": "12",
+            "title": "FUNDAMENTAL RIGHTS - Definition",
+            "date": "",
+            "intent": "Laws inconsistent with or in derogation of the fundamental rights.",
+            "rule": [
+                "In this Part, unless the context otherwise requires, the State includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "39",
+            "title": "Certain principles of policy to be followed by the State",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall, in particular, direct its policy towards securing that the citizens, men and women equally, have the right to an adequate means of livelihood",
+                "The State shall, in particular, direct its policy towards securing that the ownership and control of the material resources of the community are so distributed as best to subserve the common good",
+                "The State shall, in particular, direct its policy towards securing that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment",
+                "The State shall, in particular, direct its policy towards securing that there is equal pay for equal work for both men and women",
+                "The State shall, in particular, direct its policy towards securing that the health and strength of workers, men and women, and the tender age of children are not abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength",
+                "The State shall, in particular, direct its policy towards securing that children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "39A",
+            "title": "Equal justice and free legal aid",
+            "date": "",
+            "intent": "To provide equal justice",
+            "rule": [
+                "The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities. "
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "41",
+            "title": "Right to work, to education and to public assistance in certain cases",
+            "date": "",
+            "intent": "To provide right to work and education",
+            "rule": [
+                "The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "42",
+            "title": "Provision for just and humane conditions of work and maternity relief",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall make provision for securing just and humane conditions of work and for maternity relief. "
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "43",
+            "title": "Living wage, etc., for workers",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, in particular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "43A",
+            "title": "Participation of workers in management of Industries",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings, establishments or other organisations engaged in any industry."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "43B",
+            "title": "Promotion of co-operative societies",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall endeavour to promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "44",
+            "title": "Uniform civil code for the citizens",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "45",
+            "title": "Provision for early childhood care and education to children below the age of six years",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "46",
+            "title": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "47",
+            "title": "Duty of the State to raise the level of nutrition and the standard of living and to improve public health",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties and, in particular, the State shall endeavour to bring about prohibition of the consumption except for medicinal purposes of intoxicating drinks and of drugs which are injurious to health. "
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        }
+    ]
+}

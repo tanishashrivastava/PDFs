@@ -1,0 +1,383 @@
+{
+    "rules": [
+        {
+            "article no": "12",
+            "title": "FUNDAMENTAL RIGHTS - Definition",
+            "date": "",
+            "intent": "Laws inconsistent with or in derogation of the fundamental rights.",
+            "rule": [
+                "In this Part, unless the context otherwise requires, the State includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "13",
+            "title": "FUNDAMENTAL RIGHTS - Definition",
+            "date": "",
+            "intent": "Laws inconsistent with or in derogation of the fundamental rights.",
+            "rule": [
+                "All laws in force in the territory of Indiaimmediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void",
+                "The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void",
+                "In this article, unless the context otherwise requires, law includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law",
+                "In this article, unless the context otherwise requires, laws in force includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas.",
+                "Nothing in this article shall apply to any amendment of this Constitution made under article 368."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "14",
+            "title": "Right to Equality - Equality before law",
+            "date": "",
+            "intent": "To provide right to equality",
+            "rule": [
+                "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "15",
+            "title": "Right to Equality - Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.",
+                "No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to access to shops, public restaurants, hotels and places of public entertainment or ",
+                "No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.",
+                "Nothing in this article shall prevent the State from making any special provision for women and children.",
+                "Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.",
+                "Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "16",
+            "title": "Right to Equality - Equality of opportunity in matters of public employment",
+            "date": "",
+            "intent": "To provide right to equality",
+            "rule": [
+                "There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.",
+                "No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
+                "Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office under the Government of, or any local or other authority within, a State or Union territory, any requirement as to residence within that State or Union territory prior to such employment or appointment.",
+                "Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State.",
+                "Nothing in this article shall prevent the State from making any provision for reservation in matters of promotion, with consequential seniority, to any class or classes of posts in the services under the State in favour of the Scheduled Castes and the Scheduled Tribes which, in the opinion of the State, are not adequately represented in the services under the State.",
+                "Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved for being filled up in that year in accordance with any provision for reservation made under clause (4) or clause (4A) as a separate class of vacancies to be filled up in any succeeding year or years and such class of vacancies shall not be considered together with the vacancies of the year in which they are being filled up for determining the ceiling of fifty percent. reservation on total number of vacancies of that year.",
+                "Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "17",
+            "title": "Right to Equality - Abolition of Untouchability",
+            "date": "",
+            "intent": "To provide right to equality",
+            "rule": [
+                "Untouchability is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of Untouchability shall be an offence punishable in accordance with law."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "18",
+            "title": "Right to Equality - Abolition of titles",
+            "date": "",
+            "intent": "To provide right to equality",
+            "rule": [
+                "No title, not being a military or academic distinction, shall be conferred by the State.",
+                "No citizen of India shall accept any title from any foreign State.",
+                "No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State.",
+                "No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "19",
+            "title": "Right to Freedom - Protection of certain rights regarding freedom of speech, etc.",
+            "date": "",
+            "intent": "To provide right to freedom",
+            "rule": [
+                "All citizens shall have the right to freedom of speech and expression",
+                "All citizens shall have the right to assemble peaceably and without arms",
+                "All citizens shall have the right to form associations or unions or co-operative societies",
+                "All citizens shall have the right to move freely throughout the territory of India",
+                "All citizens shall have the right to reside and settle in any part of the territory of India",
+                "All citizens shall have the right to practise any profession, or to carry on any occupation, trade or business.",
+                "Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.",
+                "Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause.",
+                "Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.",
+                "Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.",
+                "Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to, the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business",
+                "Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to, the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "20",
+            "title": "Right to Freedom - Protection in respect of conviction for offences",
+            "date": "",
+            "intent": "To provide right to Freedom",
+            "rule": [
+                "No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.",
+                "No person shall be prosecuted and punished for the same offence more than once.",
+                "No person accused of any offence shall be compelled to be a witness against himself."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "21",
+            "title": "Right to Freedom - Protection of life and personal liberty",
+            "date": "",
+            "intent": "To provide right to Freedom",
+            "rule": [
+                "No person shall be deprived of his life or personal liberty except according to procedure established by law."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "21A",
+            "title": "Right to freedom - Right to education",
+            "date": "",
+            "intent": "To provide right to freedom",
+            "rule": [
+                "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "22",
+            "title": "Right to freedom - Protection against arrest and detention in certain cases",
+            "date": "",
+            "intent": "To provide right to freedom",
+            "rule": [
+                "No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice. ",
+                "Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate.",
+                "Nothing in clauses (1) and (2) shall apply to any person who for the time being is an enemy alien",
+                "Nothing in clauses (1) and (2) shall apply to any person who is arrested or detained under any law providing for preventive detention.",
+                "No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention: Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7)",
+                "No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless such person is detained in accordance with the provisions of any law made by Parliament under subclauses (a) and (b) of clause (7)",
+                "When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order.",
+                "Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose.",
+                "Parliament may by law prescribe  the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4)",
+                "Parliament may by law prescribe  the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention",
+                "Parliament may by law prescribe the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4)."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "23",
+            "title": "Right against Exploitation - Prohibition of traffic in human beings and forced labour",
+            "date": "",
+            "intent": "To provide right to exploitation",
+            "rule": [
+                "Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.",
+                "Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "24",
+            "title": "Right to exploitation - Prohibition of employment of children in factories, etc.",
+            "date": "",
+            "intent": "To provide right to exploitation",
+            "rule": [
+                "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "25",
+            "title": "Right to Freedom of Religion - Freedom of conscience and free profession, practice and propagation of religion",
+            "date": "",
+            "intent": "To provide right to Religion",
+            "rule": [
+                "Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.",
+                "Nothing in this article shall affect the operation of any existing law or prevent the State from making any law regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice ",
+                "Nothing in this article shall affect the operation of any existing law or prevent the State from making any law providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and sections of Hindus"
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "26",
+            "title": "Right to Freedom of Religion - Freedom to manage religious affairs",
+            "date": "",
+            "intent": "To provide right to Freedom of Religion",
+            "rule": [
+                "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right to establish and maintain institutions for religious and charitable purposes",
+                "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right to manage its own affairs in matters of religion",
+                "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right to own and acquire movable and immovable property and (d) to administer such property in accordance with law."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "27",
+            "title": "Right to Freedom of Religion - Freedom as to payment of taxes for promotion of any particular religion",
+            "date": "",
+            "intent": "To provide right to Freedom of Religion",
+            "rule": [
+                "No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "28",
+            "title": "Right to Freedom of Religion - Freedom as to attendance at religious instruction or religious worship in certain educational institutions",
+            "date": "",
+            "intent": "To provide right to Freedom of Religion",
+            "rule": [
+                "No religious instruction shall be provided in any educational institution wholly maintained out of State funds.",
+                "Nothing in clause (1) shall apply to an educational institution which is administered by the State but has been established under any endowment or trust which requires that religious instruction shall be imparted in such institution.",
+                "No person attending any educational institution recognised by the State or receiving aid out of State funds shall be required to take part in any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "29",
+            "title": "Cultural and Educational Rights - Protection of interests of minorities",
+            "date": "",
+            "intent": "Protection of interests of minorities",
+            "rule": [
+                "Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.",
+                "No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "30",
+            "title": "Cultural and Educational Rights - Right of minorities to establish and administer educational institutions",
+            "date": "",
+            "intent": "To provide right to Freedom of Religion",
+            "rule": [
+                "No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "31",
+            "title": "",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "Repealed, Compulsory acquisition of property. Rep. by the Constitution (Forty-fourth Amendment) Act, 1978"
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        },
+        {
+            "article no": "32A",
+            "title": "",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "Repealed, Constitutional validity of State laws not to be considered in proceedings under article 32. Rep. by the Constitution (Forty-third Amendment) Act, 1977"
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        }
+    ]
+}

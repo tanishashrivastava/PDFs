@@ -1,0 +1,41 @@
+{
+    "article no": 25,
+    "title": "Equal Remuneration Act",
+    "date": "08-03-1976",
+    "intent": "This Act prevents discrimination in terms of remuneration. It provides for payment of equal recompense to men and women workers.",
+    "rule": [
+        [ "An Act to provide for the payment of equal remuneration to men and women workers and for the prevention of discrimination, on the ground of sex, against women in the matter of employment and for matters connected therewith or incidental thereto." ] ,
+        [ "Section-4 :  Duty of employer to pay equal remuneration to men and women workers for same work or work of a similar nature." ,
+            {
+            "(1) No employer shall pay to any worker, employed by him in an establishment or employment, remuneration, whether payable in cash or in kind, at rates less favourable than those at which remuneration is paid by him to the workers of the opposite sex in such establishment or employment for performing the same work or work of a similar nature.
+            (2) No employer shall, for the purpose of complying with the provisions of sub-section (1), reduce the rate of remuneration of any worker.
+            (3) Where, in an establishment or employment, the rates of remuneration payable before the commencement of this Act for men and women workers for the same work or work of a similar nature are different only on the ground of sex, then the higher (in cases where there are only two rates), or, as the case may be, the highest (in cases where there are more than two rates), of such rates shall be the rate at which remuneration shall be payable, on and from such commencement, to such men and women workers:
+            Provided that nothing in this sub-section shall be deemed to entitle a worker to the revision of the rate of remuneration payable to him or her with reference to the service rendered by him or her before the commencement of this Act."} ],
+        [ "Section-5 : No discrimination to be made while recruiting men and women workers.", 
+            {"On and from the commencement of this Act, no employer shall, while making recruitment for the same work or work of a similar nature, 1 [or in any condition of service subsequent to recruitment such as promotions, training or transfer,] make any discrimination against women except where the employment of women in such work is prohibited or restricted by or under any law for the time being in force:
+            Provided that the provisions of this section shall not affect any priority or reservation for Scheduled Castes or Scheduled Tribes, ex-servicemen, retrenched employees or any other class or category of persons in the matter of recruitment to the posts in an establishment or employment."} ]
+        [ "Section-8 :  Duty of employers to maintain registers." ,
+            { "On and from the commencement of this Act, every employer shall maintain such registers and other documents in relation to the workers employed by him as may be prescribed."}]
+    ],
+    "penalty": [
+        ["Section-10", 
+            {"(1) If after the commencement of this Act, any employer, being required by or under the Act, so to do--
+            (a) omits or fails to maintain any register or other document in relation to workers employed by him, or
+            (b) omits or fails to produce any register, muster-roll or other document relating to the employment of workers, or
+            (c) omits or refuses to give any evidence or prevents his agent, servant, or any other person in charge of the establishment, or any worker, from giving evidence, or
+            (d) omits or refuses to give any information,he shall be punishable 1 [with simple imprisonment for a term which may extend to one month or with fine which may extend to ten thousand rupees or with both].
+        (2) If, after the commencement of this Act, any employer--
+            (a) makes any recruitment in contravention of the provisions of this Act, or
+            (b) makes any payment of remuneration at unequal rates to men and women workers, for the same work or work of a similar nature, or
+            (c) makes any discrimination between men and women workers in contravention of the provisions of this Act, or
+            (d) omits or fails to carry out any direction made by the appropriate Government under sub-section (5) of section 6, he shall be punishable 2 [with fine which shall not be less than ten thousand rupees but which may extend to twenty thousand rupees or with imprisonment for a term which shall be not less than three months but which may extend to one year or with both for the first offence, and with imprisonment which may extend to two years for the second and subsequent offences].
+        (3) If any person being required so to do, omits or refuses to produce to an Inspector any register or other document or to give any information, he shall be punishable with fine which may extend to five hundred rupees." }]
+    ]
+
+    "Exception" : ["Section 15.  Act not to apply in certain special cases.", 
+        {"Act not to apply in certain special cases.--Nothing in this Act shall apply--
+            (a) to cases affecting the terms and conditions of a woman's employment in complying with the requirements of any law giving special treatment to women, or
+            (b) to any special treatment accorded to women in connection with--
+            (i) the birth or expected birth of a child, or
+            (ii) the terms and conditions relating to retirement, marriage or death or to any provision made in connection with the retirement, marriage or death."}]
+}

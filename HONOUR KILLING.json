@@ -1,0 +1,27 @@
+{
+    "article no" : ,
+    "title": "Hornour Killing", 
+    "date" : "", 
+    "intent" : "",
+    "rule" : [
+        {
+            "- Honor killing or shame killing is the homicide of a member of a family by other 
+                members, due to the perpetrators’ belief that the victim has brought shame or dishonor 
+                upon the family, or has violated the principles of a community or a religion, usually for 
+                reasons such as refusing to enter an arranged marriage, being in a relationship that is 
+                disapproved by their family, having sex outside marriage, becoming the victim of rape, 
+                dressing in ways which are deemed inappropriate, engaging in non-heterosexual relations 
+                or renouncing a faith. 
+            - In Lata Singh v. State of Uttar Pradesh (2006), the Supreme Court opined that “There is nothing honourable in honor killings and they are wholly illegal”. 
+            - The Hon’ble Supreme Court in the case of Shakti Vahini v. Union of India (2018), 
+                ruled that it was illegal for so called khap panchayats, or assemblies of village elders, to 
+                interfere in marriage between two consenting adults, and to summon and punish them. "
+        }
+    ] ,
+    "penalty" : [
+        {
+            " PROCEDURE FOR REMEDY
+             File a complaint in the nearest police station."
+        }
+    ]
+}

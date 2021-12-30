@@ -1,0 +1,96 @@
+{
+    "article no" : ,
+    "title": "CYBER CRIMES AGAINST WOMEN", 
+    "date" : "", 
+    "intent" : "Information Technology solutions have paved a way to a new world of internet, business 
+    networking and e-banking, budding as a solution to reduce costs, change the sophisticated 
+    economic affairs to easier, speedy, efficient, and time saving method of transactions. 
+    Various criminals like hackers, crackers have also found ways and measures to interfere 
+    with the internet accounts and have been successful in gaining unauthorized access to the 
+    user’s computer system and stolen useful data.",
+    "rule" : [
+        {
+            "In general cybercrime may be defined as “Any unlawful act where computer or communication device or computer network is used to commit or facilitate the commission of crime”. 
+            Below is a list for some of the cybercrimes along with their indicative explanation. 
+            This is to facilitate better reporting of complaints. "
+        },
+        {
+            "a. Harassment through e-mails: Harassment via email, includes black mailing, threatening 
+            and constant sending of love letters in anonymous names or regular sending of 
+            embarrassing mails"
+        },
+        {
+            "b. Cyber stalking: ‘Stalkers are strengthened by the anonymity the internet offers. 
+            He may be on the other side of the earth, or a next door neighbor or a near relative!’ It involves following a person’s movements across the Internet by posting messages 
+            (sometimes threatening) on the bulletin boards frequented by the victim, entering the chat-rooms 
+            frequented by the victim, constantly bombarding the victim with emails etc. In general, 
+            the stalker intends to cause emotional distress and has no legitimate purpose to his communications.
+            "
+        },
+        {
+            "c. Cyber defamation: Cyber defamation also called Cyber smearing can be understood as 
+            the intentional infringement of ‘another person's right to his good name. ‘Cyber 
+            Defamation occurs with the help of computers and / or the Internet. It is considered more 
+            of a menace owing to its expeditious nature."
+        },
+        {
+            "d. Child pornography: Child sexually abusive material (CSAM) refers to material 
+            containing sexual image in any form, of a child who is abused or sexually exploited. 
+            Section 67 (B) of IT Act states that “it is punishable for publishing or transmitting of 
+            material depicting children in sexually explicit act, etc. in electronic form. "
+        },
+        {
+            "e. Cyber bullying: A form of harassment or bullying inflicted through the use of electronic 
+            or communication devices such as computer, mobile phone, laptop, etc"
+        },
+        {
+            "f. Cyber grooming: Cyber Grooming is when a person builds an online relationship with a 
+            young person and tricks or pressures him/ her into doing sexual act. "
+        },
+        {
+            "- Chapter XI of the IT Act deals with the offences such as tampering with computer source 
+            documents. 
+            --Section 65 deals with hacking of computer system 
+            --Section 66 deals with publishing of information which is obscene in electric form 
+            --Section 67 deals with Access to protected system 
+            --Section 70 deals with Breach of confidentiality and privacy"
+        }
+    ] ,
+    "penalty" : [
+        {
+                "PROCEDURE FOR REMEDY:
+            1. In case of cyber- crimes, a victim may contact the nearest cyber cell or police station. 
+            2. A complaint may also be filed anonymously through National Cybercrime Reporting 
+            Portal (cybercrime.gov.in). 
+            3. To file a complaint alleging commission of a cyber-crime the following documents 
+            must be provided: 
+            - In case of hacking the following information should be provided: Server logs.
+                3.1 Soft copy as well as hard copy of defaced web page in case your website is defaced. 
+                3.2 In case the data is compromised on your server or computer or any other network equipment, soft copy of original data and compromised data is required. 
+                3.3 Access control mechanism details i.e. who had what kind of the access to the compromised system. 
+                3.4 List of suspects if any. 
+                3.5 All relevant information leading to the answers to following questions
+                    o What has been compromised in the system? 
+                    o Who might have compromised the system? 
+                    o When the system was compromised? 
+                    o Why the system might have been compromised?
+                    o Where is the impact of attack-identifying the target system from the network? 
+                    o How many systems have been compromised by the attack? "
+        },
+        {
+            "In case of e-mail abuse like vulgar e-mails, etc., the following information should be provided: 
+            --Extract the extended headers of offending e-mail and bring soft copy as well as hard copy of offending e-mail. 
+            -- Please do not delete the offending e-mail from your e-mail box. 
+            -- Please save the copy of offending e-mail on your computer’s hard drive."
+        },
+        {
+            " FEW MEASURES FOR ONLINE SAFETY:
+             Keep an eye out for phoney email messages 
+             Don't respond to email messages that ask for personal information 
+             Steer clear of fraudulent Web sites used to steal personal information 
+             Pay attention to privacy policies on Web sites and in software 
+             Guard your email address 
+             Strong Passwords "
+        }
+    ]
+}
