@@ -1,0 +1,37 @@
+{
+    "article no" : ,
+    "title": " ", 
+    "date" : "", 
+    "intent" : " The National Human Rights Commission (NHRC) of India is an autonomous public body 
+    responsible for the protection and promotion of human rights.
+     “Human Rights” means the rights relating to life, liberty, equality and dignity of an 
+    individual guaranteed by the constitution or embodied in the International Covenants and enforceable by courts in India. ",
+    "rule" : [
+        {
+            "FUNCTIONS OF NHRC: 
+             Proactively or relatively inquire into violations of human rights or negligence in the 
+            prevention of such violation by a public servant. 
+             By leave of the court, to intervene in court proceeding relating to human rights. 
+             Visiting any jail or other institution under the control of the State Government, where 
+            persons are detained or lodged for purposes of treatment, reformation or protection, for 
+            the study of the living conditions of the imamates and make recommendations. 
+             Reviewing the safeguards provided by or under the Constitution or any law for the time 
+            being in force for the protection of human rights and recommend measures for their 
+            effective implementation. 
+             Reviewing the factors, including acts of terrorism that inhibit the enjoyment of human 
+            rights and recommend appropriate remedial measures.
+             To study treaties and other International instruments on human rights and make 
+            recommendations for their effective implementation.
+             To undertake and promote research in the field of human rights. 
+             To engage in human rights education among various sections of society and promote 
+            awareness of the safeguards available for the protection of these rights through 
+            publications, media, seminars and other available means. 
+             Encourage the efforts of NGO s and instructions working in the field of Human Rights."
+        }
+    ] ,
+    "penalty" : [
+        {
+
+        }
+    ]
+}
